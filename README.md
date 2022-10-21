@@ -2,7 +2,7 @@
 
 ## Use
 * Clone the repo
-* *Zip up the file with zip -r -x ".git/*" -x "README.md" -X nextibsubnet.zip .
+* Zip up the file with zip -r -x ".git/*" -x "README.md" -X nextibsubnet.zip .
 * Upload into vRO
 * Add in action inputs
 * Change the return type to Properties
